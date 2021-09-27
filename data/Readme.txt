@@ -1,0 +1,8 @@
+ProcessedData_1 (7열)
+(Time, Acc_X, Acc_Y, Acc_Z, GSR, Tmp, Labeling)
+ProcessedData_2 (64열)
+(Time, Acc_X, Acc_Y, Acc_Z, GSR, Tmp, Skeleton, Labeling)
+ProcessedData_3 (8열)
+(Time, Acc_X, Acc_Y, Acc_Z, GSR, Tmp, Performance, Labeling)
+ProcessedData_4 (65열)
+(Time, Acc_X, Acc_Y, Acc_Z, GSR, Tmp, Skeleton, Performance, Labeling)
